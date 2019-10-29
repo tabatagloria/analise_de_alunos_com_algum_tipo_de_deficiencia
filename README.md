@@ -4,7 +4,7 @@
 <br/>
 
 # Análise de alunos com algum tipo de deficiência
-<p></p>
+
 Estamos analisando a quantidade de alunos com algum tipo de deficiência na rede de ensino brasileiro.
 <br/>
 #### Dados analisados:
