@@ -1,6 +1,6 @@
 # Fatec - Prof Jessen Vidal - São José dso Campos - SP
 <br/>
-<center><img src="fatecads.jpg" alt="fatec ads 2019"/></center>
+<img src="fatecads.jpg" alt="fatec ads 2019"/>
 <br/>
 
 # Análise de alunos com algum tipo de deficiência
