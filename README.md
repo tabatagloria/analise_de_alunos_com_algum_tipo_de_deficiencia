@@ -3,12 +3,12 @@
 <img src="fatecads.jpg" alt="fatec ads 2019"/>
 <br/>
 
-# Análise de alunos com algum tipo de deficiência
+# Análise de dados sober o numero de de estudantes deficientes
 
 Estamos analisando a quantidade de alunos com algum tipo de deficiência na rede de ensino brasileiro.
 <br/>
 #### Dados analisados:
-- Tipo de deficiência
-- Região
+- Deficiência
+- Idade
 - Genêro
-- Escolaridade
+- Identicador do aluno
